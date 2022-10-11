@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635867469692",
+    "project_id": "whatsapp-f434f",
+    "storage_bucket": "whatsapp-f434f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635867469692:android:bf3736d641a223363236f9",
+        "android_client_info": {
+          "package_name": "com.instant.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635867469692-a7md1j3n0o2hmr2697igck4ufbrrqi9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc70rsFQ9hc3gxHRJZYLTqr1tAZ-r76sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635867469692-a7md1j3n0o2hmr2697igck4ufbrrqi9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
